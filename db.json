@@ -1,0 +1,70 @@
+{
+  "productos": [
+    {
+      "id": "1",
+      "nombre": "Ultra Music Festival 2014",
+      "imagen": "https://i.ytimg.com/vi/1U5dCKMjYr0/hqdefault.jpg",
+      "precio": 430.00
+    },
+    {
+      "id": "2",
+      "nombre": "Ultra Music Festival 2015",
+      "imagen": "https://nrfmagazine.com/wp-content/uploads/2015/03/Ultra-Music-Festival-2015-sesiones_NRFmagazine.jpg",
+      "precio": 700.00
+    },
+    {
+      "id": "3",
+      "nombre": "Ultra Music Festival 2016",
+      "imagen": "https://i.ytimg.com/vi/m1ssAFzaCsU/maxresdefault.jpg",
+      "precio": 850.00
+    },
+    {
+      "id": "4",
+      "nombre": "Ultra Music Festival 2017",
+      "imagen": "https://st1.uvnimg.com/f6/dc/1a1d9ec34e7cb78873be5e435d79/17504234-10154654526762739-4799483880884931234-o.jpg",
+      "precio": 950.00
+    },
+    {
+      "id": "5",
+      "nombre": "Ultra Music Festival 2018",
+      "imagen": "https://i0.wp.com/thegroovecartel.com/wp-content/uploads/2018/03/28947696_10155664140007739_1075606537165553541_o.jpg?fit=2048%2C1152&ssl=1",
+      "precio": 990.00
+    },
+    {
+      "id": "6",
+      "nombre": "Ultra Music Festival 2019",
+      "imagen": "https://i.ytimg.com/vi/WKuaujIHBT4/hqdefault.jpg",
+      "precio": 1100.00
+    },
+    {
+      "id": "7",
+      "nombre": "Ultra Music Festival 2020",
+      "imagen": "https://fmetv.com/media/2020/01/1569511699_606508_1569512698_gigante_normal-1.jpg",
+      "precio": 1200.99
+    },
+    {
+      "id": "8",
+      "nombre": "Ultra Music Festival 2021",
+      "imagen": "https://wololosound.com/wp-content/uploads/Ultra-Music-festival-2021.jpg",
+      "precio": 1300.00
+    },
+    {
+      "id": "9",
+      "nombre": "Ultra Music Festival 2022",
+      "imagen": "https://fmetv.com/media/2021/11/Ultra-Music-Festival-pospuesto-hasta-2022.jpg",
+      "precio": 1400.99
+    },
+    {
+      "id": "10",
+      "nombre": "Ultra Music Festival 2023",
+      "imagen": "https://media1.miaminewtimes.com/mia/imager/ultra-2023-day-one-brought-techno-to-the-main-stage-and-an-appearance-by-ice-spice/u/magnum/16631264/ultra-music-festival-2023-credit-michele-eve-sandberg-32.jpg",
+      "precio": 1419.99
+    },
+    {
+      "id": "11",
+      "nombre": "Ultra Music Festival 2024",
+      "imagen": "https://weraveyou.com/wp-content/uploads/2024/04/Ultra-Excision.jpg",
+      "precio": 1520.99
+    }
+  ]
+}
